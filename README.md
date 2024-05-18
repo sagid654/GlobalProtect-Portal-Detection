@@ -67,3 +67,14 @@ This script is provided "as is" without any warranty of any kind, either express
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Sagi Dahan**
+
+- GitHub: [github.com/sagid654](https://github.com/sagid654)
+- LinkedIn: [linkedin.com/in/sagidahan](https://www.linkedin.com/in/sagidahan/)
+
+For any inquiries or further information, please contact me through GitHub or LinkedIn.
+
+Thank you for using this project. Your feedback and contributions are highly appreciated!
